@@ -21,6 +21,10 @@ Donde se trabajan con ***datos agrupados*** y ***no agrupados***, y por el cual 
 * Coeficiente de Asimetría
 * Kurtosis
 
+## Descagar Ejecutable
+
+[Descargar](https://github.com/JohamSMC/statisticalProject/releases/download/v1/ProyectoEstadistica-V1.rar)
+
 ## Demo 
 
 ![Demo1](https://user-images.githubusercontent.com/37983099/82721230-ec27ce00-9c80-11ea-8f99-5823b690c8bc.gif)
